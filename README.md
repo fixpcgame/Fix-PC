@@ -1,5 +1,5 @@
-# Fix-PC
-💻 Fix PC - Immersive puzzle game
+# 💻 Fix-PC
+Immersive puzzle game
 
 <img src="Drive/Level%20Images/Gallery.png" alt="Screenshot" style="border-radius: 12px; width: 700px;">
 
