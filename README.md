@@ -1,5 +1,5 @@
 # 💻 Fix-PC
-<i>VR and non-VR compatible puzzle game</i>
+<i>Immersive VR and non-VR compatible puzzle game</i>
 
 From navigating satellites in the open cosmos of space to spinning decks above a theatre production, your abilities will be put to the test as you battle through every cinematic mission in this first-person puzzle game.
 
