@@ -1,6 +1,10 @@
 # 💻 Fix-PC
 <i>Immersive VR and non-VR compatible puzzle game</i>
 
+### [Watch Trailer 1](https://drive.google.com/file/d/1Hvct3i9isDFXrcBXgOpo_AB5CpnnXFAs/preview)
+
+### [Watch Trailer 2](https://drive.google.com/file/d/1Na6BBDMnalIEc-0YZ8I_Sr9BSg_aMyCZ/preview)
+
 From navigating satellites in the open cosmos of space to spinning decks above a theatre production, your abilities will be put to the test as you battle through every cinematic mission in this first-person puzzle game.
 
 <img src="Drive/Level%20Images/Gallery.png" alt="Screenshot" style="border-radius: 12px; width: 700px;">
